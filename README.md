@@ -1,2 +1,5 @@
 # hello-World
-Just another Repository
+
+Hi All!
+
+Adam Here. I am a fan of C# and enjoy long walks on the beach
